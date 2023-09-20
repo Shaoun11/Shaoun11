@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaoun11&label=Profile%20views&color=0e75b6&style=flat" alt="shaoun11" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaoun11" alt="shaoun11" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/heyshaoun" target="blank"><img src="https://img.shields.io/twitter/follow/heyshaoun?logo=twitter&style=for-the-badge" alt="heyshaoun" /></a> </p>
 
 - 🔭 I’m currently studying at **Computer Science Technology**
@@ -18,6 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heyshaoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyshaoun" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100079283506916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100079283506916" height="30" width="40" /></a>
+<a href="https://instagram.com/shaoun_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaoun_._/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
