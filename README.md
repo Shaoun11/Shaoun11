@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently studying at **Computer Science Technology**
 
-- 🌱 I’m currently learning **javascript frameworks**
-
 - 🤝 I’m looking for help with **https://phone-tube-website.netlify.app/**
 
 - 💬 Ask me about **react**
