@@ -12,7 +12,13 @@
 - 🔭 I’m currently studying at **Computer Science Technology**
 
 - 🤝 I’m looking for help with **https://phone-tube-website.netlify.app/**
+  
+- 🌱 I’m currently learning **Node JS & JavaScript Problem Solving**
+  
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
+- ⚡ Fun fact **I love coding and creating awesome websites**
+  
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **heyshaoun@gmail.com**
