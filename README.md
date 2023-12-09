@@ -10,8 +10,6 @@
 <p align="left"> <a href="https://twitter.com/heyshaoun" target="blank"><img src="https://img.shields.io/twitter/follow/heyshaoun?logo=twitter&style=for-the-badge" alt="heyshaoun" /></a> </p>
 
 - 🔭 I’m currently studying at **Computer Science Technology**
-
-- 🤝 I’m looking for help with **https://phone-tube-website.netlify.app/**
   
 - 🌱 I’m currently learning **Node JS & JavaScript Problem Solving**
   
