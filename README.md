@@ -31,22 +31,20 @@
 <br>
 <p align="center">
 <img src="https://github.com/Shaoun11/Shaoun11/blob/main/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/css.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/JavaScript.png"/>
 
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/react.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/tailwind.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/Bootsrap.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/node.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/express.png"/>
+<img src="https://github.com/Shaoun11/Shaoun11/blob/main/mongo.png"/>
 
   
 </p><br/>
